@@ -1,0 +1,150 @@
+body{
+    margin:0px;
+    font-family:sans-serif;
+}
+.badan .Gambar1{
+    width:100%;
+    height:800px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+.tap{
+    gap:320px;
+    display:flex;
+    margin:0px 0px 0px 60px;
+    padding:10px 0px 0px 0px;
+    color:white;
+}
+.flx{
+    display:flex;
+    gap:10px;
+}
+.flx a{
+    color:#BBBDC3;
+    text-decoration:none;
+}
+.tombol{
+    color:white;
+    border:none;
+    border-radius:8px;
+    width:90px;
+    height:30px;
+}
+#bg {
+    width:100%;
+    height:800px;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.640));
+}
+.bodyy{
+    margin-top:-230px;
+    background:rgb(229, 229, 229);
+    height:2000px;
+    width:auto;
+}
+.taptap{
+    padding-left:25px;
+    padding-top:20px;
+    display:flex;
+    gap:10px;
+    position:absolute;
+    background-color:#3258E8;
+    border-radius:20px 0px 0px 0px ;
+    margin-top:-119px;
+    margin-left:130px;
+    height:59px;
+    width:100px;
+}
+.taptap p{
+    margin-top:0px;
+    color:white;
+}
+.taptap1{
+    padding-left:20px;
+    padding-top:20px;
+    display:flex;
+    gap:10px;
+    position:absolute;
+    background-color:white;
+    border-radius:0px 20px 0px 0px ;
+    margin-top:-119px;
+    margin-left:255px;
+    height:59px;
+    width:100px;
+}
+.taptap1 p{
+    margin-top:0px;
+    color:#232631;
+}
+.tap2{
+    margin-left:130px;
+    position:absolute;
+    border-radius:0px 20px 20px 20px;
+    margin-top:-60px;
+    background-color:white;
+    width:1050px;
+    height:110px;
+    display:flex;
+}
+.mauke{
+    border-radius:20px;
+    margin:17px;
+    width:auto;
+    height:70px;
+    border:solid #BBBDC3;
+}
+.box{
+    margin:15px;
+    background-color:#E8EDFF;
+    border-radius:8px;
+    padding:2px;
+    width:25px;
+    height:25px;
+}
+.f1{
+    margin:-20px 0px;
+}
+.menu{
+    margin:7px 10px;
+    display:flex;
+    height:10px;
+    width:165px;
+}
+.ser{
+    border-radius:20px;
+    margin:20px;
+    background-color:#3258E8;
+    height: 58px;;
+    width:58px;
+}
+.Featured{
+    padding-top:110px;
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+.kotax{
+    background-color:;
+    width: 100%;
+    height: 550px;
+    display:flex;
+    
+}
+.opsion h3{
+    margin-bottom:-10px;
+
+}.opsion p{
+    color:#848484;
+}
+.button{
+    border:none; 
+    height:30px; 
+    width:100px; 
+    border-radius:10px;
+}
+.Service{
+    padding-top:90px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
